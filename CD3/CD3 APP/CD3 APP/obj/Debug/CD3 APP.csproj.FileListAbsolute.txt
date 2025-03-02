@@ -1,0 +1,21 @@
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\CD3 APP.exe.config
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\CD3 APP.exe
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\CD3 APP.pdb
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3 APP.csproj.AssemblyReference.cache
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormLogin.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormMenu.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.Properties.Resources.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3 APP.csproj.GenerateResource.cache
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3 APP.csproj.CoreCompileInputs.cache
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3 APP.exe
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3 APP.pdb
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormTT.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormLich.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormBao.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormDo.resources
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\EntityFramework.dll
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\EntityFramework.xml
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3 APP.csproj.Up2Date
+C:\Users\Tung\source\repos\CD3 APP\CD3 APP\obj\Debug\CD3_APP.FormThuoc.resources
